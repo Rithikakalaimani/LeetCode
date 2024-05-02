@@ -1,4 +1,4 @@
-package Arrays;
+
 public class SecLargest_SecSmallest {
   public static int secondSmallest(int[] arr, int n)
   {
