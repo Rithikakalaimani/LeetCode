@@ -1,4 +1,3 @@
-package Arrays;
 
 public class Array_sorted {
   static boolean isSorted(int arr[], int n) {
