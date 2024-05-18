@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//just  git check
+//just  git 
 public class Rearrange_Neg_Pos {
 public static int[] RearrangebySign(int[] A, int n){
   ArrayList<Integer> pos=new ArrayList<>();
