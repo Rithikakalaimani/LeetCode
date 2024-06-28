@@ -25,3 +25,4 @@ public class Check_2String_Anagaram {
     System.out.println(checkAnagrams(Str1, Str2));
   }
 }
+
